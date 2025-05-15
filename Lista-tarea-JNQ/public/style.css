@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-image: url(https://i.pinimg.com/736x/4c/5f/e6/4c5fe66daa9cdfe873d8bfebbf9ac6e3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    max-width: 600px;
+    margin: auto;
+   }
+   li {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    padding: 5px;
+    background: #f1f1f1;
+    border-radius: 4px;
+   }
+   .completed {
+    text-decoration: line-through;
+    color: rgb(235, 23, 23);
+   }
+   
