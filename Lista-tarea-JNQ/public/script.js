@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', () => {
     span.classList.toggle('completed');
     });
     // Botón de eliminar
-   // Botón de eliminar
     const botonEliminar = document.createElement('button');
     botonEliminar.textContent = ' '; 
     botonEliminar.title = 'Presionar aquí para eliminar'; 
